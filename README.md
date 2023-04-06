@@ -2,6 +2,7 @@
 
 # To compile Part 1 
 g++ -o part1 part1.cpp -lGL -lGLU -lGLEW -lglut -lSOIL -lassimp
+
 Make sure update cow.obj and cow-tex-fin.jpg path
 
 
